@@ -1,5 +1,4 @@
 version: '2'
-
 services:
   website:
     image: tiangolo/uwsgi-nginx-flask:python3.6
